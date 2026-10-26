@@ -1,0 +1,23 @@
+{
+  "packageId": "com.saloneconnect.dating",
+  "host": "ais-dev-s3cj2t4yy667ngiz3tlq7s-606344511533.europe-west3.run.app",
+  "name": "Salone Connect Dating",
+  "launcherName": "SaloneConnect",
+  "themeColor": "#020617",
+  "navigationColor": "#020617",
+  "backgroundColor": "#020617",
+  "startUrl": "/",
+  "iconUrl": "https://ais-dev-s3cj2t4yy667ngiz3tlq7s-606344511533.europe-west3.run.app/pwa-512x512.png",
+  "maskableIconUrl": "https://ais-dev-s3cj2t4yy667ngiz3tlq7s-606344511533.europe-west3.run.app/pwa-maskable-512x512.png",
+  "generator": "Bubblewrap TWA Builder v1.18.2",
+  "features": {
+    "location": true,
+    "camera": true,
+    "microphone": true,
+    "webShare": true
+  },
+  "pilotContacts": {
+    "lead": "kattaalpha@gmail.com",
+    "phone": "+23280181162"
+  }
+}
